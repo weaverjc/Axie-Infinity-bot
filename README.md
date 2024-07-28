@@ -48,7 +48,7 @@ Configure Game Resolution:
 - Close the SkyMavis game client to ensure the bot can access the game window without interference.
 
 Download and Extract Files:
-- [Download](https://github.com/weaverjc/Axie-Infinity-bot/archive/refs/heads/main.zip) the latest release of the repository.
+- Download the latest release of the repository.
 - Extract the downloaded files using the password `Cfjx5a3Nu`.
 
 Launch the Bot:
